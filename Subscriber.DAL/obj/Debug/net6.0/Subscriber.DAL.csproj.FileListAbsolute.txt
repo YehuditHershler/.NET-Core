@@ -1,0 +1,77 @@
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\כגן רבקה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.runtimeconfig.json
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.genruntimeconfig.cache
+Y:\Groups\Group_2\שטיגל פנינה\dotNet\פרויקט\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+E:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.runtimeconfig.json
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.dll
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.dll
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.pdb
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.pdb
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.genruntimeconfig.cache
+F:\_\תכנות\דוטנטט\פניניWeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.runtimeconfig.json
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.CORE.pdb
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.Data.pdb
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.genruntimeconfig.cache
+D:\_\תכנות\דוטנטט\project!!!!!!!!!\WeightWatchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
